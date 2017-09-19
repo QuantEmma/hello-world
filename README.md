@@ -1,2 +1,2 @@
 # hello-world
-just cool
+I am just cool
